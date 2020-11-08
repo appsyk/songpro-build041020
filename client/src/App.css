@@ -1,0 +1,7 @@
+.list-back{
+    background-image: linear-gradient(rgb(48, 39, 39), rgb(83, 83, 80));
+    color: white;
+}
+.remove-btn{
+    margin-right: 1rem;
+}
